@@ -1,2 +1,2 @@
-# minjae712.github.com
+# minjae712.github.io
 For my Gitblog
